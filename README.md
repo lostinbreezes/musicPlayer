@@ -1,5 +1,10 @@
-# musicPlayer
-html音乐播放器
-
-## 演示效果图：
-<img src="https://github.com/zoyoy1203/musicPlayer/blob/master/others/img16.gif" />
+1=富士山下
+2=七里香
+3=小城大事
+4=好久不见
+5=再见二丁目
+6=十年
+7=阴天快乐
+8=暇な夜、雨が降る
+9=Despacito
+10=白玫瑰
