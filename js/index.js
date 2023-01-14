@@ -23,7 +23,7 @@ $(function(){
     var musicImgsData = ['img/1.jpg','img/2.jpg','img/3.jpg','img/4.jpg','img/5.jpg','img/6.jpg','img/7.jpg','img/8.jpg','img/9.jpg','img/10.jpg']    // 图片地址数组
     var musicNameData = ['富士山下','七里香','小城大事','好久不见','再见二丁目','十年','阴天快乐','暇な夜、雨が降る','Despacito','白玫瑰'];                   // 歌曲名数组
     var artistNameData = ['陈奕迅','周杰伦','杨千嬅','陈奕迅','杨千嬅','陈奕迅','陈奕迅','ULTRA TOWER','Luis Fonsi/Daddy Yankee','陈奕迅']            // 创作歌手数组
-    var musicUrls=['mp3/music1.mp3','mp3/music2.mp3','mp3/music3.mp3','mp3/music4.mp3','mp3/music5.mp3','mp3/music6.mp3','mp3/music7.mp3','mp3/music8.mp3','mp3/music9.mp3','mp3/music10.mp3'];// 歌曲mp3数组
+    var musicUrls=['http://rofiqmg9b.hd-bkt.clouddn.com/music1.mp3?e=1673674841&token=D8b_Iyaa_nxrBF7LpuhR7y2GS5vJFhLbsd5My3z6:79kbIyB8rm90y3lwEbzs0pMZSkc=','mp3/music2.mp3','mp3/music3.mp3','mp3/music4.mp3','mp3/music5.mp3','mp3/music6.mp3','mp3/music7.mp3','mp3/music8.mp3','mp3/music9.mp3','mp3/music10.mp3'];// 歌曲mp3数组
     var currIndex = -1;              // 当前播放索引
     
     var buffInterval = null          // 初始化定时器 判断是否需要缓冲
